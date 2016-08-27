@@ -1,0 +1,6 @@
+{
+  "name": "Applied Machine Learning",
+  "tagline": "Course files for DAT203.3x: Applied Machine Learning",
+  "body": "![Applied Machine Learning](https://courses.edx.org/asset-v1:Microsoft+DAT203.3x+5T2016+type@asset+block@DAT203.3x.png)\r\n\r\nExplore theory and practice, and work with tools like R, Python, and Azure Machine Learning to solve advanced data science problems.\r\n\r\nThis GitHub repository contains the lab files for the course.\r\nIf you'd like to attend the course, sign up for free on [edX](https://www.edx.org/course/applied-machine-learning-microsoft-dat203-3x).",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
